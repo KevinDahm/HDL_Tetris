@@ -1,0 +1,82 @@
+module move ( input Reset, Clk, 
+					input [7:0] keycode,
+               output logic a_enable, s_enable, d_enable
+					output logic restart_enable);
+
+					
+					enum logic [3:0] {WAIT, a_keypress, send_a, d_keypress, send_d, s_keypress, send_s, r_keypress, send_r} state, next_state;
+					
+					
+					always_ff @ (posedge Clk or posedge Reset)
+					begin : 
+						if (Reset)
+							state <= WAIT;
+						else
+							state <= next_state;
+					end
+					
+					always_comb begin
+					unique case (State)
+					
+						WAIT : begin
+									if (8'h04 == keycode)		// left
+										next_state <= a_keypress;
+									else if (8'h16 == keycode) // down
+										next_state <= s_keypress;
+									else if (8'h07 == keycode) // right
+										next_state <= d_keypress;
+									else if (8'h15 == keycode) // reset
+										next_state <= r_keypress;
+									else
+										next_state <= WAIT;
+								 end
+								 
+						a_keypress : begin
+											if (8'h04 == keycode)
+												next_state <= a_keypress;
+											else
+												next_state <= send_a;
+										 end
+										 
+						s_keypress : begin
+											if (8'h16 == keycode)
+												next_state <= s_keypress;
+											else
+												next_state <= send_s;
+										 end
+										 
+						d_keypress : begin
+											if (8'h07 == keycode)
+												next_state <= d_keypress;
+											else
+												next_state <= send_d;
+									    end
+												 
+						r_keypress : begin
+											if (8'h15 == keycode)
+												next_state <= r_keypress;
+											else
+												next_state <= send_r;
+									    end
+						
+						send_a : begin
+										a_enable = 1;
+										next_state <= WAIT;
+								   end
+									
+						send_s : begin
+										s_enable = 1;
+										next_state <= WAIT;
+								   end
+									
+						send_d : begin
+										d_enable = 1;
+										next_state <= WAIT
+									end
+									
+						send_r : begin
+										r_enable = 1;
+										next_state <= WAIT;
+									end
+				
+endmodule

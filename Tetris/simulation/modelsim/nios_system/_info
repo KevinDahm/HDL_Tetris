@@ -1,0 +1,1660 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/cam82/Desktop/Final_Project/simulation/modelsim
+valtera_avalon_sc_fifo
+Z0 !s110 1481011895
+!i10b 1
+!s100 2@;YleiQS51@UMb7^^WbN1
+I0LYJ3ARGL?OC5mnEi_dfL0
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dE:/SCHOOL_FALL_2016/385/tetris/Final_Project/simulation/modelsim
+Z3 w1476816240
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_avalon_sc_fifo.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_avalon_sc_fifo.v
+Z4 L0 21
+Z5 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1481011895.232000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_avalon_sc_fifo.v|
+!i113 1
+Z6 o-vlog01compat -work nios_system
+Z7 !s92 -vlog01compat -work nios_system +incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules
+valtera_avalon_st_clock_crosser
+Z8 !s110 1481011898
+!i10b 1
+!s100 _kMN<BJ0mkgSFXTW`85Bh2
+Ie5ooY7iLDO<i7c;g]Mj[c1
+R1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_avalon_st_clock_crosser.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_avalon_st_clock_crosser.v
+L0 22
+R5
+r1
+!s85 0
+31
+!s108 1481011898.337000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!i113 1
+R6
+R7
+valtera_avalon_st_handshake_clock_crosser
+R8
+!i10b 1
+!s100 <TeLS^R[XXnBHVSJ0:LXK0
+IGDegGN]^IDFTz7bUOT0ni2
+R1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+Z9 L0 24
+R5
+r1
+!s85 0
+31
+!s108 1481011898.249000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!i113 1
+R6
+R7
+valtera_merlin_arb_adder
+Z10 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+R8
+!i10b 1
+!s100 K`mj4ab`UI=f=Bzd]0FbK0
+I6;?W5A1??A;_;?G6A@jn01
+R1
+Z11 !s105 altera_merlin_arbitrator_sv_unit
+S1
+R2
+R3
+Z12 8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_arbitrator.sv
+Z13 FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_arbitrator.sv
+L0 228
+R5
+r1
+!s85 0
+31
+Z14 !s108 1481011898.407000
+Z15 !s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_arbitrator.sv|
+Z16 !s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_arbitrator.sv|
+!i113 1
+Z17 o-sv -work nios_system
+Z18 !s92 -sv -work nios_system +incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules
+valtera_merlin_arbitrator
+R10
+R8
+!i10b 1
+!s100 Ni=FjEDhlN5HaJIeO8C?D0
+IBfgVbJGzFS45^d1USzhhA1
+R1
+R11
+S1
+R2
+R3
+R12
+R13
+L0 103
+R5
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R17
+R18
+valtera_merlin_burst_uncompressor
+R10
+Z19 !s110 1481011899
+!i10b 1
+!s100 GURQ=I3dUngBFBEkGhKmh3
+I`QMfXV6Bii9F3>ocUnL4=2
+R1
+!s105 altera_merlin_burst_uncompressor_sv_unit
+S1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+L0 40
+R5
+r1
+!s85 0
+31
+!s108 1481011899.853000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!i113 1
+R17
+R18
+valtera_merlin_master_agent
+R10
+R19
+!i10b 1
+!s100 ;96Rc=znn;@WbB0jWGRRl1
+I?LZb`m=g6LPk:<a=0=k8U3
+R1
+!s105 altera_merlin_master_agent_sv_unit
+S1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_master_agent.sv
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_master_agent.sv
+L0 28
+R5
+r1
+!s85 0
+31
+!s108 1481011899.936000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_master_agent.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_master_agent.sv|
+!i113 1
+R17
+R18
+valtera_merlin_master_translator
+R10
+Z20 !s110 1481011900
+!i10b 1
+!s100 6[_D]96gi`8O488PiFWUc1
+INeRjY^iOS?=_@mDj_obf81
+R1
+!s105 altera_merlin_master_translator_sv_unit
+S1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_master_translator.sv
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_master_translator.sv
+L0 30
+R5
+r1
+!s85 0
+31
+!s108 1481011900.145000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_master_translator.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_master_translator.sv|
+!i113 1
+R17
+R18
+valtera_merlin_slave_agent
+R10
+R19
+!i10b 1
+!s100 3LfTAj;bB3aAXgCgCn_bT3
+I7RlIJFo5VPaJ@=1`8njk>3
+R1
+!s105 altera_merlin_slave_agent_sv_unit
+S1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_slave_agent.sv
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_slave_agent.sv
+L0 34
+R5
+r1
+!s85 0
+31
+!s108 1481011899.718000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_slave_agent.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_slave_agent.sv|
+!i113 1
+R17
+R18
+valtera_merlin_slave_translator
+R10
+R20
+!i10b 1
+!s100 dTa]H8`_eei9>oMl>o5z71
+I8MR70zhAQ_z?B8WdeK?Gg3
+R1
+!s105 altera_merlin_slave_translator_sv_unit
+S1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_slave_translator.sv
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_slave_translator.sv
+L0 35
+R5
+r1
+!s85 0
+31
+!s108 1481011900.046000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_slave_translator.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_merlin_slave_translator.sv|
+!i113 1
+R17
+R18
+valtera_reset_controller
+Z21 !s110 1481011894
+!i10b 1
+!s100 VEhLaE^KT@RiagZkfkKI93
+I^Z=MT_<>k;35=j;WQz0kX2
+R1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_reset_controller.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_reset_controller.v
+L0 42
+R5
+r1
+!s85 0
+31
+!s108 1481011894.793000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_reset_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_reset_controller.v|
+!i113 1
+R6
+R7
+valtera_reset_synchronizer
+R21
+!i10b 1
+!s100 UTD:?4E=?>;X@do<;V;hQ1
+IhVaPJ>d7egF38NAW@9U3f3
+R1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_reset_synchronizer.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_reset_synchronizer.v
+R9
+R5
+r1
+!s85 0
+31
+!s108 1481011894.917000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/altera_reset_synchronizer.v|
+!i113 1
+R6
+R7
+vnios_system_irq_mapper
+R10
+R8
+!i10b 1
+!s100 ZGm6N;7Rn>m0leZMI91QY0
+I7mm_cN;9`K@_3[G0=97bL0
+R1
+!s105 nios_system_irq_mapper_sv_unit
+S1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_irq_mapper.sv
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_irq_mapper.sv
+L0 31
+R5
+r1
+!s85 0
+31
+!s108 1481011898.081000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_irq_mapper.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_irq_mapper.sv|
+!i113 1
+R17
+R18
+vnios_system_jtag_uart_0
+Z22 !s110 1481011897
+!i10b 1
+!s100 :MmM:0liXENO<Q^IUn]oh3
+IO]UJTBZfC33CZL9om:CIA0
+R1
+R2
+R3
+Z23 8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_jtag_uart_0.v
+Z24 FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_jtag_uart_0.v
+L0 327
+R5
+r1
+!s85 0
+31
+Z25 !s108 1481011897.073000
+Z26 !s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_jtag_uart_0.v|
+Z27 !s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_jtag_uart_0.v|
+!i113 1
+R6
+R7
+vnios_system_jtag_uart_0_scfifo_r
+R22
+!i10b 1
+!s100 gXO9dTSOCmgV4Wb<09CVT0
+IU`LhN98PFAB42l6oB_I481
+R1
+R2
+R3
+R23
+R24
+L0 240
+R5
+r1
+!s85 0
+31
+R25
+R26
+R27
+!i113 1
+R6
+R7
+vnios_system_jtag_uart_0_scfifo_w
+R22
+!i10b 1
+!s100 ;ji9i5zOlD>aj4S7R=57E3
+IH1:obU<iz@4X0>_]d>hg]1
+R1
+R2
+R3
+R23
+R24
+L0 77
+R5
+r1
+!s85 0
+31
+R25
+R26
+R27
+!i113 1
+R6
+R7
+vnios_system_jtag_uart_0_sim_scfifo_r
+R22
+!i10b 1
+!s100 V;:bhJWmeiWSzYG>kF<HX2
+IJ9M;@PiCL7O`iJZ21XPm^1
+R1
+R2
+R3
+R23
+R24
+L0 162
+R5
+r1
+!s85 0
+31
+R25
+R26
+R27
+!i113 1
+R6
+R7
+vnios_system_jtag_uart_0_sim_scfifo_w
+R22
+!i10b 1
+!s100 O?7hL]]l>bOaFz[D84m]m2
+Ize0G[jnXeVhCi^>0BK8;o1
+R1
+R2
+R3
+R23
+R24
+R4
+R5
+r1
+!s85 0
+31
+R25
+R26
+R27
+!i113 1
+R6
+R7
+vnios_system_keycode
+R22
+!i10b 1
+!s100 NMLBlO[7i:V`V29gc@>5=0
+ITd7nVmi5olJzzTCS7:5@B0
+R1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_keycode.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_keycode.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481011896.964000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_keycode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_keycode.v|
+!i113 1
+R6
+R7
+vnios_system_mm_interconnect_0
+R0
+!i10b 1
+!s100 K6>;60[A6^>gRFG1fGO^12
+I7dLnKM?Fk^KX<9;SLn6^42
+R1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+!s108 1481011894.982000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0.v|
+!i113 1
+R6
+R7
+vnios_system_mm_interconnect_0_avalon_st_adapter
+R0
+!i10b 1
+!s100 bB`0U][J6Ta7W15AOY]kI0
+IhkKZee7OY7YFb<P:4bC320
+R1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter.v
+L0 9
+R5
+r1
+!s85 0
+31
+!s108 1481011895.102000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter.v|
+!i113 1
+R6
+R7
+vnios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0
+R10
+R8
+!i10b 1
+!s100 b5MC7IN[92h@f=T203cnn2
+I25z56_L^B2QM92d1O[83>1
+R1
+!s105 nios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0_sv_unit
+S1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+L0 66
+R5
+r1
+!s85 0
+31
+!s108 1481011898.163000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!i113 1
+R17
+R18
+vnios_system_mm_interconnect_0_cmd_demux
+R10
+R19
+!i10b 1
+!s100 kl;`6UWB2lA@0[RKH[NB93
+I5kcD_Y:hP8M]_I12ed3B:2
+R1
+!s105 nios_system_mm_interconnect_0_cmd_demux_sv_unit
+S1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux.sv
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux.sv
+Z28 L0 43
+R5
+r1
+!s85 0
+31
+!s108 1481011899.092000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux.sv|
+!i113 1
+R17
+R18
+vnios_system_mm_interconnect_0_cmd_demux_001
+R10
+R19
+!i10b 1
+!s100 cdB`BLSeB>E[e6M<Q;F:13
+I5=Q=_NiZ;VDZDSVn6nc5_2
+R1
+!s105 nios_system_mm_interconnect_0_cmd_demux_001_sv_unit
+S1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux_001.sv
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux_001.sv
+R28
+R5
+r1
+!s85 0
+31
+!s108 1481011899.015000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux_001.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_demux_001.sv|
+!i113 1
+R17
+R18
+vnios_system_mm_interconnect_0_cmd_mux
+R10
+R8
+!i10b 1
+!s100 f@AD3?o1SDWA6T50UM2kE2
+IU6BONag>DddkPGh:2aZF;3
+R1
+!s105 nios_system_mm_interconnect_0_cmd_mux_sv_unit
+S1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux.sv
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux.sv
+Z29 L0 51
+R5
+r1
+!s85 0
+31
+!s108 1481011898.943000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux.sv|
+!i113 1
+R17
+R18
+vnios_system_mm_interconnect_0_cmd_mux_001
+R10
+R8
+!i10b 1
+!s100 Q5^fT352Ez4N>h3:mE9h33
+IW3;;oW>go24[2TFBgAOhR3
+R1
+!s105 nios_system_mm_interconnect_0_cmd_mux_001_sv_unit
+S1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux_001.sv
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux_001.sv
+R29
+R5
+r1
+!s85 0
+31
+!s108 1481011898.834000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux_001.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_cmd_mux_001.sv|
+!i113 1
+R17
+R18
+vnios_system_mm_interconnect_0_router
+R10
+R19
+!i10b 1
+!s100 4zoICOa<_8WN@Mlb:ZHVG3
+I;1o8@mgPVQ[IMKKFXk92:2
+R1
+Z30 !s105 nios_system_mm_interconnect_0_router_sv_unit
+S1
+R2
+R3
+Z31 8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router.sv
+Z32 FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router.sv
+Z33 L0 84
+R5
+r1
+!s85 0
+31
+Z34 !s108 1481011899.492000
+Z35 !s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router.sv|
+Z36 !s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router.sv|
+!i113 1
+R17
+R18
+vnios_system_mm_interconnect_0_router_001
+R10
+R19
+!i10b 1
+!s100 jeIVI_RI1cKL?oGQeCYlN3
+I_^S0zCU90504ek@4hjD6j3
+R1
+Z37 !s105 nios_system_mm_interconnect_0_router_001_sv_unit
+S1
+R2
+R3
+Z38 8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_001.sv
+Z39 FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_001.sv
+R33
+R5
+r1
+!s85 0
+31
+Z40 !s108 1481011899.401000
+Z41 !s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_001.sv|
+Z42 !s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_001.sv|
+!i113 1
+R17
+R18
+vnios_system_mm_interconnect_0_router_001_default_decode
+R10
+R19
+!i10b 1
+!s100 i1l;`G3g:7UM=zH:EVQ803
+IMm^7@6`DG=7>Y>n38k?1Z2
+R1
+R37
+S1
+R2
+R3
+R38
+R39
+Z43 L0 45
+R5
+r1
+!s85 0
+31
+R40
+R41
+R42
+!i113 1
+R17
+R18
+vnios_system_mm_interconnect_0_router_002
+R10
+R19
+!i10b 1
+!s100 k9J<YaVEQKDcEY`gb<V6J1
+ImGokKSONoYZQ;1OW^fb[]1
+R1
+Z44 !s105 nios_system_mm_interconnect_0_router_002_sv_unit
+S1
+R2
+R3
+Z45 8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_002.sv
+Z46 FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_002.sv
+R33
+R5
+r1
+!s85 0
+31
+Z47 !s108 1481011899.294000
+Z48 !s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_002.sv|
+Z49 !s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_002.sv|
+!i113 1
+R17
+R18
+vnios_system_mm_interconnect_0_router_002_default_decode
+R10
+R19
+!i10b 1
+!s100 [=;YgoF6d]gaCk>H2HA1L2
+Ik91JRMb2zbf?IQdh0c8Vm3
+R1
+R44
+S1
+R2
+R3
+R45
+R46
+R43
+R5
+r1
+!s85 0
+31
+R47
+R48
+R49
+!i113 1
+R17
+R18
+vnios_system_mm_interconnect_0_router_003
+R10
+R19
+!i10b 1
+!s100 U1T_F3zWWVJAY2ge6DWK[2
+I2XKh3]7nj:VkQNY;60`ZP1
+R1
+Z50 !s105 nios_system_mm_interconnect_0_router_003_sv_unit
+S1
+R2
+R3
+Z51 8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_003.sv
+Z52 FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_003.sv
+R33
+R5
+r1
+!s85 0
+31
+Z53 !s108 1481011899.176000
+Z54 !s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_003.sv|
+Z55 !s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_router_003.sv|
+!i113 1
+R17
+R18
+vnios_system_mm_interconnect_0_router_003_default_decode
+R10
+R19
+!i10b 1
+!s100 >=_8<0`W_VgJ>RZc1Bd?X1
+Iz7Q`F12NVh;POS<Tf[1dB0
+R1
+R50
+S1
+R2
+R3
+R51
+R52
+R43
+R5
+r1
+!s85 0
+31
+R53
+R54
+R55
+!i113 1
+R17
+R18
+vnios_system_mm_interconnect_0_router_default_decode
+R10
+R19
+!i10b 1
+!s100 5<PkmA1SbM?l?ce=U=LBG0
+IYhDE;:6njV8h:M4X]3;923
+R1
+R30
+S1
+R2
+R3
+R31
+R32
+R43
+R5
+r1
+!s85 0
+31
+R34
+R35
+R36
+!i113 1
+R17
+R18
+vnios_system_mm_interconnect_0_rsp_demux
+R10
+R8
+!i10b 1
+!s100 186U1cE_8Xb9=fOA:QHBT0
+I<j4UQli96SdX;]K9@8k5G2
+R1
+!s105 nios_system_mm_interconnect_0_rsp_demux_sv_unit
+S1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux.sv
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux.sv
+R28
+R5
+r1
+!s85 0
+31
+!s108 1481011898.747000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux.sv|
+!i113 1
+R17
+R18
+vnios_system_mm_interconnect_0_rsp_demux_001
+R10
+R8
+!i10b 1
+!s100 9CGY01@Y6`b52zY?GTfe>1
+I6]ilef=FWiT5e^@F9SHh@0
+R1
+!s105 nios_system_mm_interconnect_0_rsp_demux_001_sv_unit
+S1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux_001.sv
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux_001.sv
+R28
+R5
+r1
+!s85 0
+31
+!s108 1481011898.679000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux_001.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_demux_001.sv|
+!i113 1
+R17
+R18
+vnios_system_mm_interconnect_0_rsp_mux
+R10
+R8
+!i10b 1
+!s100 6e?eF[W:JRS3offcSGfL^2
+IDm`B>]DG<W@IgWiW=J7dS1
+R1
+!s105 nios_system_mm_interconnect_0_rsp_mux_sv_unit
+S1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux.sv
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux.sv
+R29
+R5
+r1
+!s85 0
+31
+!s108 1481011898.574000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux.sv|
+!i113 1
+R17
+R18
+vnios_system_mm_interconnect_0_rsp_mux_001
+R10
+R8
+!i10b 1
+!s100 ZVM?dNNF;]je7:3S2Gb5R0
+I3m6bTSC;oCiFVSVQ4kUJd0
+R1
+!s105 nios_system_mm_interconnect_0_rsp_mux_001_sv_unit
+S1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux_001.sv
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux_001.sv
+R29
+R5
+r1
+!s85 0
+31
+!s108 1481011898.485000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux_001.sv|
+!s90 -reportprogress|300|-sv|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_mm_interconnect_0_rsp_mux_001.sv|
+!i113 1
+R17
+R18
+vnios_system_nios2_qsys_0
+Z56 !s110 1481011896
+!i10b 1
+!s100 OfDdZ4_691i^KC8[=R2e13
+Ize<VlVe[d?g`oO6?jVoOl0
+R1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+!s108 1481011896.118000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0.v|
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu
+R56
+!i10b 1
+!s100 mVBW:i1THk1i>C]1i5WVS3
+IWk`4FKQ<Oe9V6CEBGa_[G0
+R1
+R2
+R3
+Z57 8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu.v
+Z58 FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu.v
+L0 2981
+R5
+r1
+!s85 0
+31
+Z59 !s108 1481011896.182000
+Z60 !s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu.v|
+Z61 !s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu.v|
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_debug_slave_sysclk
+R56
+!i10b 1
+!s100 R;HXW`FJC4<@liih@P7IM3
+ISo_2czP:cOfI<QJ^hA?4=0
+R1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_sysclk.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_sysclk.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481011896.574000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_sysclk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_sysclk.v|
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_debug_slave_tck
+R56
+!i10b 1
+!s100 2zcCA[gE2@diU5nUVkY=R2
+I[T]2`MP3iO:dFeQch;]K:2
+R1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_tck.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_tck.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481011896.664000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_tck.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_tck.v|
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_debug_slave_wrapper
+R56
+!i10b 1
+!s100 7lEZaEMaiG^G:Y`@ZCKZF1
+I?^@NiCfzec?_Q6GcbP^6G1
+R1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_wrapper.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_wrapper.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481011896.757000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_wrapper.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_debug_slave_wrapper.v|
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_avalon_reg
+R56
+!i10b 1
+!s100 =^?ea7[Oh1B@ZN6VBkOWP0
+Ib24<NTjGBFR?IF?2Z:]dM1
+R1
+R2
+R3
+R57
+R58
+L0 2177
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci
+R56
+!i10b 1
+!s100 cSP5Nn>dYfD?ELR;]HlYW3
+I4ah1^cP8^75OOJ0S:=g;e2
+R1
+R2
+R3
+R57
+R58
+L0 2510
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_break
+R56
+!i10b 1
+!s100 CcccK0lV2RMSkLa4mz0;O0
+I`3fS?_L6YZg^Z5;o>Bj:52
+R1
+R2
+R3
+R57
+R58
+L0 292
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_compute_input_tm_cnt
+R56
+!i10b 1
+!s100 Jom33VTUFNX>OzIc;AKOS1
+IWWEY@h?zjz@TnLJ4JdIQa1
+R1
+R2
+R3
+R57
+R58
+L0 1426
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_dbrk
+R56
+!i10b 1
+!s100 Hib?^Tz:GZiY@6_:f6Xzc0
+Im:z8R^=fdl2d?bakTZoC>1
+R1
+R2
+R3
+R57
+R58
+L0 790
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_debug
+R56
+!i10b 1
+!s100 XK<`6DDHY9VB[:N3HXgiD1
+IF_fbVgDY4O;SlS27BALol3
+R1
+R2
+R3
+R57
+R58
+L0 151
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_dtrace
+R56
+!i10b 1
+!s100 SgOVRi==dOKO82U6_U0C:2
+I;g?1QO00eVH9[cmhT_G7S0
+R1
+R2
+R3
+R57
+R58
+L0 1345
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_fifo
+R56
+!i10b 1
+!s100 5fQ]]7oVBA:?jERJgZjRM3
+ImYTYUKmk03UF75idPWUdL3
+R1
+R2
+R3
+R57
+R58
+L0 1585
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_fifo_cnt_inc
+R56
+!i10b 1
+!s100 <[4R2J:oVbER`b[HQ36Qe2
+ITzASa4838:@YWIOmbkQ?o2
+R1
+R2
+R3
+R57
+R58
+L0 1539
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_fifo_wrptr_inc
+R56
+!i10b 1
+!s100 n1h=Og9N9]E^9_[5AXHY]0
+I>V4zX`9]>9azE;Gi8V4;z3
+R1
+R2
+R3
+R57
+R58
+L0 1497
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_im
+R56
+!i10b 1
+!s100 z2BFPJ3<ioffXS^IRmFPF3
+ITe__0ORPFhS?j<NjTSDSW0
+R1
+R2
+R3
+R57
+R58
+L0 2092
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_itrace
+R56
+!i10b 1
+!s100 Ud<IEdKDDO1MMQa8YlHz31
+I^XALM9b9eLZSNS3n=0@?;1
+R1
+R2
+R3
+R57
+R58
+L0 976
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_pib
+R56
+!i10b 1
+!s100 VCBDjChcLl>iHB@DoLAS^2
+IKKg9OJJS8l`Hl;a?M[:W22
+R1
+R2
+R3
+R57
+R58
+L0 2070
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_td_mode
+R56
+!i10b 1
+!s100 XTA0jdoMH_JkI11BLf04^3
+I6Vmh;9ZZM3:leHH^P73293
+R1
+R2
+R3
+R57
+R58
+L0 1278
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_oci_xbrk
+R56
+!i10b 1
+!s100 AI@gTjN5L[Lb9I2D[LfjK1
+I3]@n<_YL?QXC=`WSHiD<^0
+R1
+R2
+R3
+R57
+R58
+L0 584
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_ocimem
+R56
+!i10b 1
+!s100 Kaa]l`iC[5YWX_I=`@CIW2
+IonK];eS2J?2;0zo]Q;R3e0
+R1
+R2
+R3
+R57
+R58
+L0 2332
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_nios2_performance_monitors
+R56
+!i10b 1
+!s100 Gel=A_e0XGD<1ncj3^g@P2
+I>nPCO[SCP@<gS8ncO2d[R1
+R1
+R2
+R3
+R57
+R58
+L0 2161
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_ociram_sp_ram_module
+R56
+!i10b 1
+!s100 3a@Jbn@E=P`z9Pf?h71JM3
+I[453o<93D>UfI5O^zh7a^1
+R1
+R2
+R3
+R57
+R58
+L0 2269
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_register_bank_a_module
+R56
+!i10b 1
+!s100 ;7m8bUN<f7;Zig@z9NNSl2
+I3=^FLoUSH7XLVB:K_=HOd0
+R1
+R2
+R3
+R57
+R58
+R4
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_register_bank_b_module
+R56
+!i10b 1
+!s100 UF8Fk9m1D?;@gdjfzzi0h0
+IO;;lA^8_=iBJjoonJoAoV2
+R1
+R2
+R3
+R57
+R58
+L0 86
+R5
+r1
+!s85 0
+31
+R59
+R60
+R61
+!i113 1
+R6
+R7
+vnios_system_nios2_qsys_0_cpu_test_bench
+R56
+!i10b 1
+!s100 O0@U4HMB8TagiR1F:R6mb1
+Ik>ie@`II:hl4_?]^VA>;=0
+R1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_test_bench.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_test_bench.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481011896.858000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_test_bench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_nios2_qsys_0_cpu_test_bench.v|
+!i113 1
+R6
+R7
+vnios_system_onchip_memory2_0
+R56
+!i10b 1
+!s100 4PCj?YoC^C?E<E^b72]Y_2
+Iknc>TQ[S;o@o8>O[NRJY92
+R1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_onchip_memory2_0.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_onchip_memory2_0.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481011896.035000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_onchip_memory2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_onchip_memory2_0.v|
+!i113 1
+R6
+R7
+vnios_system_otg_hpi_address
+R0
+!i10b 1
+!s100 cWVDfmAU1LozeX<8a:YGS2
+I=f4L`@<AV:NF=RaNYgH]n2
+R1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_otg_hpi_address.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_otg_hpi_address.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481011895.957000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_otg_hpi_address.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_otg_hpi_address.v|
+!i113 1
+R6
+R7
+vnios_system_otg_hpi_cs
+R0
+!i10b 1
+!s100 Ma[RJe=eD4K4a@0j23K__2
+I[hQm>mnPEYd]1GaN[e=8K0
+R1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_otg_hpi_cs.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_otg_hpi_cs.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481011895.883000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_otg_hpi_cs.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_otg_hpi_cs.v|
+!i113 1
+R6
+R7
+vnios_system_otg_hpi_data
+R0
+!i10b 1
+!s100 ^`FVFDMa]9g62RdP`7^g:0
+I@h>??eg<6D451mH7ROkcZ3
+R1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_otg_hpi_data.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_otg_hpi_data.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481011895.813000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_otg_hpi_data.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_otg_hpi_data.v|
+!i113 1
+R6
+R7
+vnios_system_sdram
+R0
+!i10b 1
+!s100 435<UPL7zbobFkJVe8Y5>1
+IP?LYBZSRbRF:ZA[=ARdH13
+R1
+R2
+R3
+Z62 8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_sdram.v
+Z63 FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_sdram.v
+L0 158
+R5
+r1
+!s85 0
+31
+Z64 !s108 1481011895.688000
+Z65 !s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_sdram.v|
+Z66 !s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_sdram.v|
+!i113 1
+R6
+R7
+vnios_system_sdram_input_efifo_module
+R0
+!i10b 1
+!s100 `4U:gH>zF5PR=6ZNAM;of1
+IG][0ZZL>PXFJX3Q3]cJ?70
+R1
+R2
+R3
+R62
+R63
+R4
+R5
+r1
+!s85 0
+31
+R64
+R65
+R66
+!i113 1
+R6
+R7
+vnios_system_sdram_pll
+R0
+!i10b 1
+!s100 T[FE[obTmG?PzU3TS=2AD1
+IRMH>f`oFk`WZiDn]MoI791
+R1
+R2
+R3
+Z67 8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_sdram_pll.v
+Z68 FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_sdram_pll.v
+L0 218
+R5
+r1
+!s85 0
+31
+Z69 !s108 1481011895.560000
+Z70 !s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_sdram_pll.v|
+Z71 !s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_sdram_pll.v|
+!i113 1
+R6
+R7
+vnios_system_sdram_pll_altpll_lqa2
+R0
+!i10b 1
+!s100 ^STn66kl3A_3`>k^;zA=_0
+I_gm0zK;XR:AS7ka_`i9Ae1
+R1
+R2
+R3
+R67
+R68
+L0 131
+R5
+r1
+!s85 0
+31
+R69
+R70
+R71
+!i113 1
+R6
+R7
+vnios_system_sdram_pll_dffpipe_l2c
+R0
+!i10b 1
+!s100 elWh6@kIZm@nImFLZLo1<2
+I@5`637cA2CE;;M0lE1QZ?2
+R1
+R2
+R3
+R67
+R68
+L0 38
+R5
+r1
+!s85 0
+31
+R69
+R70
+R71
+!i113 1
+R6
+R7
+vnios_system_sdram_pll_stdsync_sv6
+R0
+!i10b 1
+!s100 h?gUGNi8f=H5NC4YTaSd83
+I^QNc>iadDS4K<FinXDiT?0
+R1
+R2
+R3
+R67
+R68
+L0 99
+R5
+r1
+!s85 0
+31
+R69
+R70
+R71
+!i113 1
+R6
+R7
+vnios_system_sysid_qsys_0
+R0
+!i10b 1
+!s100 j=9Y>hUnIBTWWd[zL?>c?1
+IGCfdI3[7o]Za^YInHznU22
+R1
+R2
+R3
+8E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_sysid_qsys_0.v
+FE:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_sysid_qsys_0.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1481011895.474000
+!s107 E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_sysid_qsys_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|nios_system|+incdir+E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules|E:/SCHOOL_FALL_2016/385/tetris/Final_Project/nios_system/synthesis/submodules/nios_system_sysid_qsys_0.v|
+!i113 1
+R6
+R7

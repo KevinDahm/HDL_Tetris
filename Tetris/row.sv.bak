@@ -1,0 +1,21 @@
+module row(input Clk, Reset,
+			  input [9:0] square1_x, square1_y,
+			  input [9:0] square2_x, square2_y,
+			  input [9:0] square3_x, square3_y,
+			  input [9:0] square4_x, square4_y,
+			  output logic filled
+			  output logic [9:0] square);
+			  
+			  always_comb 
+					begin
+						if (square == 10'b1111111111)
+							filled <= 1;
+						else
+							filled <= 0;
+					end
+				
+				
+				always_ff @ (posedge Clk or posedge Reset)
+					begin
+					end
+					

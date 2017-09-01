@@ -1,0 +1,75 @@
+module blockCreator(input Clk, Reset,
+						  output logic [9:0] square1_x, square1_y,
+						  output logic [9:0] square2_x, square2_y,
+						  output logic [9:0] square3_x, square3_y,
+						  output logic [9:0] square4_x, square4_y);
+						  
+						  // L
+						  square1_x = 120;
+						  square1_y = 24;
+						  square2_x = 120;
+						  square2_y = 48;
+						  square3_x = 120;
+						  square3_y = 72;
+						  square4_x = 144;
+						  square4_y = 72;
+						  
+						  // reverse L
+						  square1_x = 144;
+						  square1_y = 24;
+						  square2_x = 144;
+						  square2_y = 48;
+						  square3_x = 144;
+						  square3_y = 72;
+						  square4_x = 120;
+						  square4_y = 72;
+						  
+						  // T
+						  square1_x = 120;
+						  square1_y = 24;
+						  square2_x = 120;
+						  square2_y = 48;
+						  square3_x = 120;
+						  square3_y = 72;
+						  square4_x = 144;
+						  square4_y = 48;
+						  
+						  // Z
+						  square1_x = 120;
+						  square1_y = 24;
+						  square2_x = 120;
+						  square2_y = 48;
+						  square3_x = 144;
+						  square3_y = 48;
+						  square4_x = 144;
+						  square4_y = 72;
+						  
+						  // reverse Z
+						  square1_x = 144;
+						  square1_y = 24;
+						  square2_x = 144;
+						  square2_y = 48;
+						  square3_x = 120;
+						  square3_y = 48;
+						  square4_x = 144;
+						  square4_y = 72;
+						  
+						  // '|'
+						  square1_x = 144;
+						  square1_y = 24;
+						  square2_x = 144;
+						  square2_y = 48;
+						  square3_x = 144;
+						  square3_y = 72;
+						  square4_x = 144;
+						  square4_y = 96;
+						  
+						  // Square
+						  square1_x = 120;
+						  square1_y = 24;
+						  square2_x = 120;
+						  square2_y = 48;
+						  square3_x = 144;
+						  square3_y = 24;
+						  square4_x = 144;
+						  square4_y = 48;
